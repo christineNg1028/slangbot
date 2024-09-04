@@ -6,7 +6,7 @@ import DailySlangTrigger from "./triggers/daily_slang_trigger.ts";
 export default Manifest({
   name: "slangbot",
   description: "daily dose of gen z slang",
-  icon: "assets/default_new_app_icon.png",
+  icon: "assets/skibidi_toilet.png",
   functions: [SendSlangDefinitionFunction],
   workflows: [SendSlangDefinitionWorkflow],
   triggers: [DailySlangTrigger],

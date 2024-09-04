@@ -4,6 +4,7 @@ export const SLANG_TERMS = [
   "negative aura",
   "aura points",
   "skibidi",
+  "skibidi toilet rizz",
   "rizz",
   "ate",
   "cook",
