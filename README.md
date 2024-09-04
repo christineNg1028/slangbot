@@ -1,3 +1,3 @@
-# Slang Bot
+# slangbot
 
-Giving the team its daily dose of gen z slang
+giving the team its daily dose of gen z slang 💅
