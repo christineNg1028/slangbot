@@ -6,7 +6,7 @@ const MAX_RETRIES = 3;
 export async function getDefinition(): Promise<string> {
   for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
     try {
-      const slangTerm = "skibidi";
+      const slangTerm = fetchRandomSlang();
       const apiUrl = `https://api.urbandictionary.com/v0/define?term=${encodeURIComponent(
         slangTerm
       )}`;
