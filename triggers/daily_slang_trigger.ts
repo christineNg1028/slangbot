@@ -8,7 +8,7 @@ const DailySlangTrigger: Trigger<TriggerContextData> = {
   workflow: "#/workflows/send_slang_definition_workflow",
   inputs: {
     channel: {
-      value: "C02CUTRR1BM",
+      value: "C07L7SS7KU7",
     },
   },
   schedule: {
